@@ -1,0 +1,23 @@
+.card{
+    height: 600px;
+    width: 500px;
+
+}
+
+.titulo_card {
+    font-size: 18px;
+    font-style: italic ;
+    text-decoration: underline;
+}
+
+.botao {
+   height:30px;
+   width:90px ;
+}
+
+.modal-title {
+    color: #116bb6;
+    font-size: 40px;
+    font-family: 'Dongle', sans-serif;
+}
+
